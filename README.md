@@ -1,19 +1,19 @@
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Project Structure](#project-structure)
-3. [Coding Standards](#coding-standards)
-4. [Version Control](#version-control)
-5. [API Design](#api-design)
-6. [Database Management](#database-management)
-7. [Security](#security)
-8. [Testing](#testing)
-9. [Deployment](#deployment)
-10. [Performance Optimization](#performance-optimization)
-11. [Collaboration and Communication](#collaboration-and-communication)
-12. [Project Management](#project-management)
-13. [Product Management](#product-management)
-14. [Continuous Improvement](#continuous-improvement)
+1. [Introduction](#1-introduction)
+2. [Project Structure](#2-project-structure)
+3. [Coding Standards](#3-coding-standards)
+4. [Version Control](#4-version-control)
+5. [API Design](#5-api-design)
+6. [Database Management](#6-database-management)
+7. [Security](#7-security)
+8. [Testing](#8-testing)
+9. [Deployment](#9-deployment)
+10. [Performance Optimization](#10-performance-optimization)
+11. [Collaboration and Communication](#11-collaboration-and-communication)
+12. [Project Management](#12-project-management)
+13. [Product Management](#13-product-management)
+14. [Continuous Improvement](#14-continuous-improvement)
 
 ## 1. **Introduction**
 
